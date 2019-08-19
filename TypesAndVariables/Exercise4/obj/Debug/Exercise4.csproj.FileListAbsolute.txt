@@ -1,7 +1,0 @@
-C:\Users\krist\OneDrive\Dokumenti\Codelex\csharp-syllabus\csharp-basics\exercises\TypesAndVariables\Exercise4\bin\Debug\Exercise4.exe.config
-C:\Users\krist\OneDrive\Dokumenti\Codelex\csharp-syllabus\csharp-basics\exercises\TypesAndVariables\Exercise4\bin\Debug\Exercise4.exe
-C:\Users\krist\OneDrive\Dokumenti\Codelex\csharp-syllabus\csharp-basics\exercises\TypesAndVariables\Exercise4\bin\Debug\Exercise4.pdb
-C:\Users\krist\OneDrive\Dokumenti\Codelex\csharp-syllabus\csharp-basics\exercises\TypesAndVariables\Exercise4\obj\Debug\Exercise4.csprojAssemblyReference.cache
-C:\Users\krist\OneDrive\Dokumenti\Codelex\csharp-syllabus\csharp-basics\exercises\TypesAndVariables\Exercise4\obj\Debug\Exercise4.csproj.CoreCompileInputs.cache
-C:\Users\krist\OneDrive\Dokumenti\Codelex\csharp-syllabus\csharp-basics\exercises\TypesAndVariables\Exercise4\obj\Debug\Exercise4.exe
-C:\Users\krist\OneDrive\Dokumenti\Codelex\csharp-syllabus\csharp-basics\exercises\TypesAndVariables\Exercise4\obj\Debug\Exercise4.pdb

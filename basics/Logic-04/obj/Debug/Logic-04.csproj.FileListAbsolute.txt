@@ -1,0 +1,7 @@
+C:\Users\krist\OneDrive\Dokumenti\Codelex\csharp-syllabus\csharp-basics\exercises\Basics\Logic-04\bin\Debug\Logic-04.exe.config
+C:\Users\krist\OneDrive\Dokumenti\Codelex\csharp-syllabus\csharp-basics\exercises\Basics\Logic-04\bin\Debug\Logic-04.exe
+C:\Users\krist\OneDrive\Dokumenti\Codelex\csharp-syllabus\csharp-basics\exercises\Basics\Logic-04\bin\Debug\Logic-04.pdb
+C:\Users\krist\OneDrive\Dokumenti\Codelex\csharp-syllabus\csharp-basics\exercises\Basics\Logic-04\obj\Debug\Logic-04.csproj.CoreCompileInputs.cache
+C:\Users\krist\OneDrive\Dokumenti\Codelex\csharp-syllabus\csharp-basics\exercises\Basics\Logic-04\obj\Debug\Logic-04.exe
+C:\Users\krist\OneDrive\Dokumenti\Codelex\csharp-syllabus\csharp-basics\exercises\Basics\Logic-04\obj\Debug\Logic-04.pdb
+C:\Users\krist\OneDrive\Dokumenti\Codelex\csharp-syllabus\csharp-basics\exercises\Basics\Logic-04\obj\Debug\Logic-04.csprojAssemblyReference.cache

@@ -1,0 +1,7 @@
+C:\Users\krist\OneDrive\Dokumenti\Codelex\csharp-syllabus\csharp-basics\exercises\TypesAndVariables\Casting\bin\Debug\Casting.exe.config
+C:\Users\krist\OneDrive\Dokumenti\Codelex\csharp-syllabus\csharp-basics\exercises\TypesAndVariables\Casting\bin\Debug\Casting.exe
+C:\Users\krist\OneDrive\Dokumenti\Codelex\csharp-syllabus\csharp-basics\exercises\TypesAndVariables\Casting\bin\Debug\Casting.pdb
+C:\Users\krist\OneDrive\Dokumenti\Codelex\csharp-syllabus\csharp-basics\exercises\TypesAndVariables\Casting\obj\Debug\Casting.csprojAssemblyReference.cache
+C:\Users\krist\OneDrive\Dokumenti\Codelex\csharp-syllabus\csharp-basics\exercises\TypesAndVariables\Casting\obj\Debug\Casting.csproj.CoreCompileInputs.cache
+C:\Users\krist\OneDrive\Dokumenti\Codelex\csharp-syllabus\csharp-basics\exercises\TypesAndVariables\Casting\obj\Debug\Casting.exe
+C:\Users\krist\OneDrive\Dokumenti\Codelex\csharp-syllabus\csharp-basics\exercises\TypesAndVariables\Casting\obj\Debug\Casting.pdb

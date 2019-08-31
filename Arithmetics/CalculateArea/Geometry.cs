@@ -21,7 +21,7 @@ namespace CalculateArea
 
         public static double areaOfTriangle(decimal ground, decimal height)
         {
-           return (double)ground * (double)height * 0.5;
+           return ((double)ground * (double)height) / 2;
         }
     }
 }

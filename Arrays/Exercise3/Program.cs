@@ -9,18 +9,23 @@ namespace Exercise3
         {
             int[] numbers = {20, 30, 25, 35, -16, 60, -100};
 
-            /*
-            fixme - calculate sum of all array elements 
-            int sum = 0;
-            for (?){
-                
-            }
-            */
 
-            /*
-            fixme - calculate average value 
-            Console.WriteLine("Average value of the array elements is : " + average);
-            */
+            //fixme - calculate sum of all array elements 
+            int sum = 0;
+            for (int i = 0; i < numbers.Length; i++)
+            {
+                sum += numbers[i];
+            }
+
+            Console.WriteLine(sum);
+
+            double average = (double)sum / (double)numbers.Length;
+
+            //fixme - calculate average value 
+            Console.WriteLine("Average value of the array elements is : " + string.Format("{0:F2}", average));
+
+
+            Console.ReadKey();
         }
     }
 }

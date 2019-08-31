@@ -1,2 +1,0 @@
-C:\Users\krist\OneDrive\Dokumenti\Codelex\csharp-syllabus\csharp-basics\exercises\Arithmetics\Exercise8\obj\Debug\Exercise8.csprojAssemblyReference.cache
-C:\Users\krist\OneDrive\Dokumenti\Codelex\csharp-syllabus\csharp-basics\exercises\Arithmetics\Exercise8\obj\Debug\Exercise8.csproj.CoreCompileInputs.cache

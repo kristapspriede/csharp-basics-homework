@@ -1,7 +1,0 @@
-C:\Users\krist\OneDrive\Dokumenti\Codelex\csharp-syllabus\csharp-basics\exercises\Loops\Loops\Exercise6 - FizzBuzz\bin\Debug\Exercise6 - FizzBuzz.exe.config
-C:\Users\krist\OneDrive\Dokumenti\Codelex\csharp-syllabus\csharp-basics\exercises\Loops\Loops\Exercise6 - FizzBuzz\bin\Debug\Exercise6 - FizzBuzz.exe
-C:\Users\krist\OneDrive\Dokumenti\Codelex\csharp-syllabus\csharp-basics\exercises\Loops\Loops\Exercise6 - FizzBuzz\bin\Debug\Exercise6 - FizzBuzz.pdb
-C:\Users\krist\OneDrive\Dokumenti\Codelex\csharp-syllabus\csharp-basics\exercises\Loops\Loops\Exercise6 - FizzBuzz\obj\Debug\Exercise6 - FizzBuzz.csprojAssemblyReference.cache
-C:\Users\krist\OneDrive\Dokumenti\Codelex\csharp-syllabus\csharp-basics\exercises\Loops\Loops\Exercise6 - FizzBuzz\obj\Debug\Exercise6 - FizzBuzz.csproj.CoreCompileInputs.cache
-C:\Users\krist\OneDrive\Dokumenti\Codelex\csharp-syllabus\csharp-basics\exercises\Loops\Loops\Exercise6 - FizzBuzz\obj\Debug\Exercise6 - FizzBuzz.exe
-C:\Users\krist\OneDrive\Dokumenti\Codelex\csharp-syllabus\csharp-basics\exercises\Loops\Loops\Exercise6 - FizzBuzz\obj\Debug\Exercise6 - FizzBuzz.pdb

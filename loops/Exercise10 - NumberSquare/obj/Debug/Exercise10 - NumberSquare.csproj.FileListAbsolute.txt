@@ -1,7 +1,0 @@
-C:\Users\krist\OneDrive\Dokumenti\Codelex\csharp-syllabus\csharp-basics\exercises\Loops\Loops\Exercise10 - NumberSquare\bin\Debug\Exercise10 - NumberSquare.exe.config
-C:\Users\krist\OneDrive\Dokumenti\Codelex\csharp-syllabus\csharp-basics\exercises\Loops\Loops\Exercise10 - NumberSquare\bin\Debug\Exercise10 - NumberSquare.exe
-C:\Users\krist\OneDrive\Dokumenti\Codelex\csharp-syllabus\csharp-basics\exercises\Loops\Loops\Exercise10 - NumberSquare\bin\Debug\Exercise10 - NumberSquare.pdb
-C:\Users\krist\OneDrive\Dokumenti\Codelex\csharp-syllabus\csharp-basics\exercises\Loops\Loops\Exercise10 - NumberSquare\obj\Debug\Exercise10 - NumberSquare.csproj.CoreCompileInputs.cache
-C:\Users\krist\OneDrive\Dokumenti\Codelex\csharp-syllabus\csharp-basics\exercises\Loops\Loops\Exercise10 - NumberSquare\obj\Debug\Exercise10 - NumberSquare.exe
-C:\Users\krist\OneDrive\Dokumenti\Codelex\csharp-syllabus\csharp-basics\exercises\Loops\Loops\Exercise10 - NumberSquare\obj\Debug\Exercise10 - NumberSquare.pdb
-C:\Users\krist\OneDrive\Dokumenti\Codelex\csharp-syllabus\csharp-basics\exercises\Loops\Loops\Exercise10 - NumberSquare\obj\Debug\Exercise10 - NumberSquare.csprojAssemblyReference.cache

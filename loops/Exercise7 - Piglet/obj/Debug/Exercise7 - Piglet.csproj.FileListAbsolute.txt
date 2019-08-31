@@ -1,6 +1,0 @@
-C:\Users\krist\OneDrive\Dokumenti\Codelex\csharp-syllabus\csharp-basics\exercises\Loops\Loops\Exercise7 - Piglet\bin\Debug\Exercise7 - Piglet.exe.config
-C:\Users\krist\OneDrive\Dokumenti\Codelex\csharp-syllabus\csharp-basics\exercises\Loops\Loops\Exercise7 - Piglet\bin\Debug\Exercise7 - Piglet.exe
-C:\Users\krist\OneDrive\Dokumenti\Codelex\csharp-syllabus\csharp-basics\exercises\Loops\Loops\Exercise7 - Piglet\bin\Debug\Exercise7 - Piglet.pdb
-C:\Users\krist\OneDrive\Dokumenti\Codelex\csharp-syllabus\csharp-basics\exercises\Loops\Loops\Exercise7 - Piglet\obj\Debug\Exercise7 - Piglet.csproj.CoreCompileInputs.cache
-C:\Users\krist\OneDrive\Dokumenti\Codelex\csharp-syllabus\csharp-basics\exercises\Loops\Loops\Exercise7 - Piglet\obj\Debug\Exercise7 - Piglet.exe
-C:\Users\krist\OneDrive\Dokumenti\Codelex\csharp-syllabus\csharp-basics\exercises\Loops\Loops\Exercise7 - Piglet\obj\Debug\Exercise7 - Piglet.pdb

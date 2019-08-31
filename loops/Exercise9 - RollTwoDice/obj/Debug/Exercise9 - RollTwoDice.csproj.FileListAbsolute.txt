@@ -1,7 +1,0 @@
-C:\Users\krist\OneDrive\Dokumenti\Codelex\csharp-syllabus\csharp-basics\exercises\Loops\Loops\Exercise9 - RollTwoDice\bin\Debug\Exercise9 - RollTwoDice.exe.config
-C:\Users\krist\OneDrive\Dokumenti\Codelex\csharp-syllabus\csharp-basics\exercises\Loops\Loops\Exercise9 - RollTwoDice\bin\Debug\Exercise9 - RollTwoDice.exe
-C:\Users\krist\OneDrive\Dokumenti\Codelex\csharp-syllabus\csharp-basics\exercises\Loops\Loops\Exercise9 - RollTwoDice\bin\Debug\Exercise9 - RollTwoDice.pdb
-C:\Users\krist\OneDrive\Dokumenti\Codelex\csharp-syllabus\csharp-basics\exercises\Loops\Loops\Exercise9 - RollTwoDice\obj\Debug\Exercise9 - RollTwoDice.csprojAssemblyReference.cache
-C:\Users\krist\OneDrive\Dokumenti\Codelex\csharp-syllabus\csharp-basics\exercises\Loops\Loops\Exercise9 - RollTwoDice\obj\Debug\Exercise9 - RollTwoDice.csproj.CoreCompileInputs.cache
-C:\Users\krist\OneDrive\Dokumenti\Codelex\csharp-syllabus\csharp-basics\exercises\Loops\Loops\Exercise9 - RollTwoDice\obj\Debug\Exercise9 - RollTwoDice.exe
-C:\Users\krist\OneDrive\Dokumenti\Codelex\csharp-syllabus\csharp-basics\exercises\Loops\Loops\Exercise9 - RollTwoDice\obj\Debug\Exercise9 - RollTwoDice.pdb

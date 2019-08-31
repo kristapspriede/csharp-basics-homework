@@ -14,7 +14,7 @@ namespace Exercise_5___PhoneKeyPad
             String userInput = Console.ReadLine();
             userInput = userInput.ToLower();
             char[] charInput = userInput.ToCharArray();
-            /*for (int i = 0; i < charInput.Length; i++)
+            for (int i = 0; i < charInput.Length; i++)
             {
                 if (charInput[i] == 'a' || charInput[i] == 'b' || charInput[i] == 'c')
                 {
@@ -56,13 +56,13 @@ namespace Exercise_5___PhoneKeyPad
                     Console.Write(9);
                     continue;
                 }
-            }*/
-            switch (charInput)
+            }
+           /* switch (charInput)
             {
              
             }
 
-            Console.ReadKey();
+            Console.ReadKey();*/
 
         }
     }

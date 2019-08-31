@@ -1,7 +1,0 @@
-C:\Users\krist\OneDrive\Dokumenti\Codelex\csharp-syllabus\csharp-basics\exercises\FlowOfControl\FlowControl\Exercise 5 - PhoneKeyPad\bin\Debug\Exercise 5 - PhoneKeyPad.exe.config
-C:\Users\krist\OneDrive\Dokumenti\Codelex\csharp-syllabus\csharp-basics\exercises\FlowOfControl\FlowControl\Exercise 5 - PhoneKeyPad\bin\Debug\Exercise 5 - PhoneKeyPad.exe
-C:\Users\krist\OneDrive\Dokumenti\Codelex\csharp-syllabus\csharp-basics\exercises\FlowOfControl\FlowControl\Exercise 5 - PhoneKeyPad\bin\Debug\Exercise 5 - PhoneKeyPad.pdb
-C:\Users\krist\OneDrive\Dokumenti\Codelex\csharp-syllabus\csharp-basics\exercises\FlowOfControl\FlowControl\Exercise 5 - PhoneKeyPad\obj\Debug\Exercise 5 - PhoneKeyPad.csprojAssemblyReference.cache
-C:\Users\krist\OneDrive\Dokumenti\Codelex\csharp-syllabus\csharp-basics\exercises\FlowOfControl\FlowControl\Exercise 5 - PhoneKeyPad\obj\Debug\Exercise 5 - PhoneKeyPad.csproj.CoreCompileInputs.cache
-C:\Users\krist\OneDrive\Dokumenti\Codelex\csharp-syllabus\csharp-basics\exercises\FlowOfControl\FlowControl\Exercise 5 - PhoneKeyPad\obj\Debug\Exercise 5 - PhoneKeyPad.exe
-C:\Users\krist\OneDrive\Dokumenti\Codelex\csharp-syllabus\csharp-basics\exercises\FlowOfControl\FlowControl\Exercise 5 - PhoneKeyPad\obj\Debug\Exercise 5 - PhoneKeyPad.pdb

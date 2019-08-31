@@ -10,23 +10,23 @@ namespace Exercise8___AsciiFigure
     {
         static void Main(string[] args)
         {
-            int val = 3;
+            int val = 7;
             for (int i = 0; i < val; i++)
             {
-                for (int j = 0; j < (val - 1) * (val - i - 1); j++)
+                for (int j = 1; j <= (val - 1 - i) * 4; j++)
                 {
                     Console.Write("/");
                 }
                 
-                for (int k = 0; k <= i * 4 - 1; k++)
+                for (int k = 1; k <= i * 4; k++)
                 {
                     Console.Write("*");
                 }
-                for (int k = 0; k <= i * 4 - 1; k++)
+                for (int k = 1; k <= i * 4; k++)
                 {
                     Console.Write("*");
                 }
-                for (int j = 0; j < (val - 1) * (val - i - 1); j++)
+                for (int j = 1; j <= (val - 1 - i) * 4; j++)
                 {
                     Console.Write("\\");
                 }

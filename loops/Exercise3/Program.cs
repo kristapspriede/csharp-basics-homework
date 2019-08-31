@@ -19,11 +19,12 @@ namespace Exercise3
 
             for (i = 0; i < integers.Length; i++) {
                 //todo - search for integer - break when you have found what you searched for
-                if (integers[i] == searchFor)
+                if (searchFor == integers[i])
                 {
                     foundIt = true;
                     break;
                 }
+
             }
 
             if (foundIt) {

@@ -20,11 +20,11 @@ namespace Exercise10___NumberSquare
                 
                 for (int j = i; j <= max; j++)
                 {
-                    Console.Write("{0} ", j);
+                    Console.Write(j + " ");
                 }
                 for (int k = min; k <= i - 1; k++)
                 {
-                    Console.Write("{0} ", k);
+                    Console.Write(k + " ");
                 }
 
                 Console.WriteLine();

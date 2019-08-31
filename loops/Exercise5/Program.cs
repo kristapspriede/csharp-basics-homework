@@ -17,13 +17,13 @@ namespace Exercise5
 
 
             int dots = 30 - (input1.Length + input2.Length);
-            Console.Write(input1);
-            for (var i = 0; i < dots; i++)
-            {
-                Console.Write(".");
-            }
-            Console.Write(input1);
-            //Console.WriteLine(input1+ new String('.', dots) +input2);
+            //Console.Write(input1);
+            //for (var i = 0; i < dots; i++)
+            //{
+            //    Console.Write(".");
+            //}
+            //Console.Write(input1);
+            Console.WriteLine(input1+ new String('.', dots) +input2);
             Console.ReadKey();
         }
     }

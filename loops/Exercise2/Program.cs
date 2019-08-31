@@ -7,7 +7,6 @@ namespace Exercise2
         static void Main(string[] args)
         {
             int i, n;
-            var a = i = 2;
 
             Console.WriteLine("Input number of terms : ");
 
@@ -15,12 +14,10 @@ namespace Exercise2
 
             
             //todo - complete loop to multiply i with itself n times, it is NOT allowed to use Math.Pow()
-            for (var j = n; j > 1; j--)
-            {
-                a *= i;
+            for (i = 0; i < n; i++) {
+              Console.WriteLine(i*i);
             }
 
-            Console.WriteLine(a);
             Console.ReadKey();
 
         }

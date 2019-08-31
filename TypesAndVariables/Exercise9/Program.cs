@@ -26,9 +26,9 @@ namespace Exercise9
 
             timeInSeconds = (userInputHours * 3600 + userInputMinutes * 60 + userInputSeconds);
 
-            Console.WriteLine("Your speed in meters/second is " + (double)userInputDistance / timeInSeconds);
-            Console.WriteLine("Your speed in km/h is " + 3.6 * ((double)userInputDistance / timeInSeconds));
-            Console.WriteLine("Your speed in miles/h is " + (3.6/(double)1.609) * ((double)userInputDistance / timeInSeconds));
+            Console.WriteLine("Your speed in meters/second is " + string.Format("{0:F2}", (double)userInputDistance / timeInSeconds));
+            Console.WriteLine("Your speed in km/h is " + string.Format("{0:F2}", 3.6 * (double)userInputDistance / timeInSeconds));
+            Console.WriteLine("Your speed in miles/h is " + string.Format("{0:F2}", (3.6 /(double)1.609) * ((double)userInputDistance / timeInSeconds)));
 
             Console.ReadKey();
         }

@@ -6,26 +6,29 @@ namespace MoreVariablesAndPrinting
     {
         static void Main(string[] args)
         {
-            String myName, myEyes, myTeeth, myHair;
-            int myAge, myHeight, myWeight;
+            //String myName, myEyes, myTeeth, myHair;
+            //int myAge, myHeight, myWeight;
 
-            myName = "Zed A. Shaw";
-            myAge = 35;
-            myHeight = 74;  // inches
-            myWeight = 180; // lbs
-            myEyes = "Blue";
-            myTeeth = "White";
-            myHair = "Brown";
+            string name = "Zed A. Shaw";
+            int age = 35;
+            int height = 74;  // inches
+            int weight = 180; // lbs
+            string eyes = "Blue";
+            string teeth = "White";
+            string hair = "Brown";
 
-            Console.WriteLine("Let's talk about " + myName + ".");
-            Console.WriteLine("He's " + myHeight + " inches tall.");
-            Console.WriteLine("He's " + myWeight + " pounds heavy.");
+            string heightInCentimeters = string.Format("{0:F2}", (2.54 * height));
+            string weightInKilograms = string.Format("{0:F2}", (0.453592 * weight));
+
+            Console.WriteLine("Let's talk about " + name + ".");
+            Console.WriteLine("He's " + height + " inches tall.");
+            Console.WriteLine("He's " + weight + " pounds heavy.");
             Console.WriteLine("Actually, that's not too heavy.");
-            Console.WriteLine("He's got " + myEyes + " eyes and " + myHair + " hair.");
-            Console.WriteLine("His teeth are usually " + myTeeth + " depending on the coffee.");
+            Console.WriteLine("He's got " + eyes + " eyes and " + hair + " hair.");
+            Console.WriteLine("His teeth are usually " + teeth + " depending on the coffee.");
 
-            Console.WriteLine("If I add " + myAge + ", " + myHeight + ", and " + myWeight
-                               + " I get " + (myAge + myHeight + myWeight) + ".");
+            Console.WriteLine("If I add " + age + ", " + heightInCentimeters + ", and " + weightInKilograms
+                               + " I get " + ((double)age + Convert.ToDouble(heightInCentimeters) + Convert.ToDouble(weightInKilograms)) + ".");
 
             Console.ReadKey();
         }

@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29209.62
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Polymorphism", "Polymorphism\Polymorphism.csproj", "{F882202B-B66D-4B99-8D97-AADB076C843A}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DragRace", "..\..\..\OneDrive\Dokumenti\Codelex\csharp-syllabus\csharp-basics\exercises\Polymorphism\DragRace\DragRace.csproj", "{9B635CA7-D3C4-4E7F-A24F-715F0CD01498}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MakeSounds", "..\..\..\OneDrive\Dokumenti\Codelex\csharp-syllabus\csharp-basics\exercises\Polymorphism\MakeSounds\MakeSounds.csproj", "{F752A67F-8FBD-4D91-9CE0-C0E301C19628}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F882202B-B66D-4B99-8D97-AADB076C843A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F882202B-B66D-4B99-8D97-AADB076C843A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F882202B-B66D-4B99-8D97-AADB076C843A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F882202B-B66D-4B99-8D97-AADB076C843A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9B635CA7-D3C4-4E7F-A24F-715F0CD01498}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B635CA7-D3C4-4E7F-A24F-715F0CD01498}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B635CA7-D3C4-4E7F-A24F-715F0CD01498}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B635CA7-D3C4-4E7F-A24F-715F0CD01498}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F752A67F-8FBD-4D91-9CE0-C0E301C19628}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F752A67F-8FBD-4D91-9CE0-C0E301C19628}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F752A67F-8FBD-4D91-9CE0-C0E301C19628}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F752A67F-8FBD-4D91-9CE0-C0E301C19628}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A83B854E-B530-4E0A-AA1A-46AEAC9D2A5D}
+	EndGlobalSection
+EndGlobal

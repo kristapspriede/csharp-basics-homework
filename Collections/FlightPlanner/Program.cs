@@ -28,22 +28,22 @@ namespace FlightPlanner
             var input = Console.ReadLine();
             
 
-            switch (input)
-            {
-                case 1:
-                    foreach (var i in flightList)
-                    {
-                        Console.WriteLine(i);
-                    }
-                    break;
-                case "#":
-                    Console.WriteLine("Two");
-                    Console.WriteLine("Two");
-                    break;
-                default:
-                    Console.WriteLine("Other");
-                    break;
-            }
+            //switch (input)
+            //{
+            //    case 1:
+            //        foreach (var i in flightList)
+            //        {
+            //            Console.WriteLine(i);
+            //        }
+            //        break;
+            //    case "#":
+            //        Console.WriteLine("Two");
+            //        Console.WriteLine("Two");
+            //        break;
+            //    default:
+            //        Console.WriteLine("Other");
+            //        break;
+            //}
 
             foreach (var i in flightList)
             {

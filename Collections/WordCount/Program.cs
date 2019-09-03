@@ -6,7 +6,7 @@ namespace WordCount
 {
     class Program
     {
-        private const string Path = "C:/Users/krist/csharp-basics-homework/Collections//WordCount/lear.txt";
+        private const string Path = "C:/Users/krist/csharp-basics-homework/Collections/WordCount/lear.txt";
 
         private static void Main(string[] args)
         {

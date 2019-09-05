@@ -29,17 +29,22 @@ namespace WordCount
 
                 wordCount++;
             }
-            char[] spaces = { ' ' };
+            //char[] spaces = { ' ' };
 
             foreach (var c in text)
             {
-                charCount++;
+                if (c != '\n')
+                {
+                    charCount++;
+                }
+                
                 
             }
+            
 
-            Console.WriteLine(linesCount);
-            Console.WriteLine(wordCount);
-            Console.WriteLine(charCount);
+            Console.WriteLine("Lines: " + linesCount);
+            Console.WriteLine("Words: " + wordCount);
+            Console.WriteLine("Chars: " + charCount);
 
             Console.ReadKey();
         }

@@ -14,7 +14,17 @@ namespace Histogram
             //string[] newLines = readText.Split(' ');
             char[] delimiterChars = { ' ' };
             string[] words = readText.Split(delimiterChars);
-
+            string tillten = "";
+            string tilltwenty = "";
+            string tillthirty = "";
+            string tillforty = "";
+            string tillfifty = "";
+            string tillsixty = "";
+            string tillseventy = "";
+            string tilleighty = "";
+            string tillninety = "";
+            string tillhundred = "";
+            string hundred = "";
             List<int> scores = new List<int>();
             foreach (var s in words)
             {
@@ -25,49 +35,61 @@ namespace Histogram
             {
                 if (scores[i] >= 0 && scores[i] <= 9)
                 {
-                    Console.WriteLine("");
+                    tillten += "*";
                 }else if (scores[i] >= 10 && scores[i] <= 19)
                 {
-                    Console.WriteLine("*");
+                    tilltwenty += "*";
                 }
                 else if (scores[i] >= 20 && scores[i] <= 29)
                 {
-                    Console.WriteLine("*");
+                    tillthirty += "*";
                 }
                 else if (scores[i] >= 30 && scores[i] <= 39)
                 {
-                    Console.WriteLine("**");
+                    tillforty += "*";
                 }
                 else if (scores[i] >= 40 && scores[i] <= 49)
                 {
-                    Console.WriteLine("*");
+                    tillfifty += "*";
                 }
                 else if (scores[i] >= 50 && scores[i] <= 59)
                 {
-                    Console.WriteLine("*****");
+                    tillsixty += "*";
                 }
                 else if (scores[i] >=60 && scores[i] <= 69)
                 {
-                    Console.WriteLine("*******");
+                    tillseventy += "*";
                 }
                 else if (scores[i] >= 70 && scores[i] <= 79)
                 {
-                    Console.WriteLine("*****************");
+                    tilleighty += "*";
                 }
                 else if (scores[i] >= 80 && scores[i] <= 89)
                 {
-                    Console.WriteLine("******");
+                    tillninety += "*";
                 }
                 else if (scores[i] >= 90 && scores[i] <= 99)
                 {
-                    Console.WriteLine("**********");
+                    tillhundred += "*";
                 }
                 else if (scores[i] == 100)
                 {
-                    Console.WriteLine("*");
+                    hundred += "*";
                 }
             }
 
+            Console.WriteLine("00 - 09: " + tillten);
+            Console.WriteLine("10 - 19: " + tilltwenty);
+            Console.WriteLine("20 - 29: " + tillthirty);
+            Console.WriteLine("30 - 39: " + tillforty);
+            Console.WriteLine("40 - 49: " + tillfifty);
+            Console.WriteLine("50 - 59: " + tillsixty);
+            Console.WriteLine("60 - 69: " + tillseventy);
+            Console.WriteLine("70 - 79: " + tilleighty);
+            Console.WriteLine("80 - 89: " + tillninety);
+            Console.WriteLine("90 - 99: " + tillhundred);
+            Console.WriteLine("    100: " + hundred);
+            Console.ReadKey();
 
 
 

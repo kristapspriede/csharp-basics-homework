@@ -13,14 +13,13 @@ namespace Exercise_5___Happy_number
             Console.Write(" Input any number : ");
             int num = Convert.ToInt32(Console.ReadLine());
             int sum = 0;
-            int currentNumber = num;
             List<int> digits = new List<int>();
 
 
-            while (currentNumber != 0)
+            while (num != 0)
             {
-                digits.Add(currentNumber % 10);
-                currentNumber = currentNumber / 10;
+                digits.Add(num % 10);
+                num = num / 10;
             }
             digits.Reverse();
 

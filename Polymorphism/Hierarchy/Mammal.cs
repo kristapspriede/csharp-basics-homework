@@ -12,6 +12,5 @@ namespace Hierarchy
         {
             _livingRegion = region;
         }
-
     }
 }

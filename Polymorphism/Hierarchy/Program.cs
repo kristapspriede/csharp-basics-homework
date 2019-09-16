@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Linq;
 
 namespace Hierarchy
 {
@@ -6,7 +7,11 @@ namespace Hierarchy
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            var animal = Console.ReadLine().Split().ToArray();
+            
+            
+
+            Console.ReadKey();
         }
     }
 }
